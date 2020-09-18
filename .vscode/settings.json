@@ -1,0 +1,16 @@
+{
+    "cSpell.words": [
+        "Inorder",
+        "arraylist",
+        "comapre",
+        "cque",
+        "leetcode",
+        "linearising",
+        "maxheight",
+        "pathsum",
+        "pque"
+    ],
+    "files.associations": {
+        "ostream": "cpp"
+    }
+}
